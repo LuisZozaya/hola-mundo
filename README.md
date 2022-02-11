@@ -1,5 +1,5 @@
 # hola-mundo
-Repositorio de prueba
+Repositorio
 
 Esto es una prueba de modificación.
 LuisZ
